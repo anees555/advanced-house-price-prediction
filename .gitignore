@@ -1,0 +1,19 @@
+# Ignore data
+data/*
+!data/.gitkeep
+
+
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+houseenv/
+
+# OS junk
+.DS_Store
